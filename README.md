@@ -1,7 +1,8 @@
 <h1> Hello! I'm Luiz Meleer!👋</h1>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizmeleer&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizmeleer&theme=cobalt&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizmeleer&compact_progress=true&theme=cobalt"/>
 </div>
 
 <h1> Working technologies</h1>
