@@ -22,5 +22,5 @@
   
 <h2> Currently working on:</h2>
 <div>
-  - A responsive and beautiful portfolio.
+  - A responsive portfolio.
 </div>
