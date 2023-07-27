@@ -24,6 +24,3 @@
 <div>
   - A responsive and beautiful portfolio.
 </div>
-<div>
-  - A minimalist landing page.
-</div>
