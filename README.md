@@ -24,9 +24,6 @@
 <div>
   - A responsive portfolio.
 </div>
-<div>
-  - A react app.
-</div>
 
 
 
