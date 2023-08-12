@@ -22,6 +22,8 @@
   
 <h2> Currently working on:</h2>
 <div>
-  - A responsive portfolio.
+  - A responsive portfolio;
 </div>
-
+<div>
+  - A react app.
+</div>
