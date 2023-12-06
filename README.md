@@ -17,7 +17,7 @@
  <div>
   <img aligin="center" Height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   </div>
-  Learn new languages and technologies is awesome!
+  Learn new languages and technologies is cool!
   
 <h2> Currently working on:</h2>
 <div>
