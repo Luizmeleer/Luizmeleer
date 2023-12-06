@@ -16,7 +16,6 @@
  <h2>Learning</h2>
  <div>
   <img aligin="center" Height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img aligin="center" Height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
   </div>
   Learn new languages and technologies is awesome!
   
