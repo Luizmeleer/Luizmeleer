@@ -20,10 +20,5 @@
   </div>
   
   Learn new languages and technologies is cool!
-  
-<h2> Currently working on:</h2>
-<div>
-  - A responsive portfolio;
-</div>
 
 
