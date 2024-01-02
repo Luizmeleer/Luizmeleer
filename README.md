@@ -11,14 +11,10 @@
   <img aligin="center" Height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
   <img aligin="center" Height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img aligin="center" Height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />    
+  <img aligin="center" Height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 </div>
  To the technologies in which I work in my daily life.
 
- <h2>Learning</h2>
- <div>
-  <img aligin="center" Height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  </div>
-  
-  Learn new languages and technologies is cool!
+
 
 
