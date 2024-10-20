@@ -18,6 +18,8 @@
   <img aligin="center" Height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img aligin="center" Height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
   <img aligin="center" Height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+  <img aligin="center" Height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
+          
 
   <p> To the technologies in which I work in my daily life.</p>
  
