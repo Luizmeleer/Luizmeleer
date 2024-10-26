@@ -2,7 +2,7 @@
 
   <h1> Hello! I'm Luiz Meleer! 🚀</h1>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizmeleer&theme=tokyonight&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizmeleer&compact_progress=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizmeleer&&layout=compact&theme=tokyonight"/>
   <br>
 </div>
 
